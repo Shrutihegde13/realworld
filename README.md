@@ -52,7 +52,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
     23: Riot.js v3
     24: Riot.js + Universal + Effector
 -->
-> _Sorted by popularity on Sun Feb 16 2020_
+> _Sorted by popularity on Sun Feb 23 2020_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -82,8 +82,7 @@ Work In Progress:
 [Surplus wip](https://github.com/gothinkster/realworld/issues/204) | 
 [Slim.js](https://github.com/gothinkster/realworld/issues/215) | 
 [Nuxt.js](https://github.com/gothinkster/realworld/issues/218) | 
-[Typescript + Web Components](https://github.com/gothinkster/realworld/issues/274) | 
-[React + NextJS](https://github.com/gothinkster/realworld/issues/336)**
+[Typescript + Web Components](https://github.com/gothinkster/realworld/issues/274)**
 
 # Backends
 <!--
@@ -129,7 +128,7 @@ Work In Progress:
     39: AWS Lambda Go + DynamoDB
     40: Spincast
 -->
-> _Sorted by popularity on Sun Feb 16 2020_
+> _Sorted by popularity on Sun Feb 23 2020_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -197,7 +196,7 @@ Work In Progress:
   Ranking:
      1: NativeScript (Angular)
 -->
-> _Sorted by popularity on Sun Feb 16 2020_
+> _Sorted by popularity on Sun Feb 23 2020_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
